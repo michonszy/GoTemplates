@@ -1,0 +1,2 @@
+# GoTemplates
+Templates in Go
